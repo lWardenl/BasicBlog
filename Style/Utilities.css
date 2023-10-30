@@ -1,7 +1,17 @@
 *
 {
-    margin: 0;
-    padding: 0;
     border: 0;
     box-sizing: border-box;
+}
+
+h2
+{
+    color: black;
+    font-weight: bold;
+}
+
+h3
+{
+    color: red;
+    font-style: italic;
 }
